@@ -1,0 +1,2 @@
+文本序号,用户名,版本号,时间,成员角色,text,issue_topic,score,tag
+0,zhang90522,3.6.2,2017-07-14 08:41:42,NONE AUTHOR,初步排查是显卡问题，如果使用性能较高的显卡（GTX970） 卡顿状况好很多，如果使用笔记本访问，就很卡。不知道这个效果与显卡性能有关?,lines绘制设置动画延迟后，当series增加至40个时，动画有卡顿效果，已设置animationThreshold无效果,0,problem;do

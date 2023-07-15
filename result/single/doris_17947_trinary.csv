@@ -1,0 +1,4 @@
+文本序号,用户名,版本号,时间,成员角色,text,issue_topic,score,tag
+0,lexluo09,1.2.3-rc02,2023-03-20 19:21:23,CONTRIBUTOR,I'm 【interested】 in this feature. Could you 【assign】 it to me? 【Thank】 you,[Feature] 【Support】 hive meta cache TTL,1,support;feature;assign;interest
+1,dutyu,1.2.3-rc02,2023-03-24 13:13:17,CONTRIBUTOR," I'm 【interested】 in this feature. Could you 【assign】 it to me? 【Thank】 youHello, wanna get to know is there any progress about this 【feature】?  ",[Feature] 【Support】 hive meta cache TTL,1,support;feature;assign;interest
+2,lexluo09,1.2.3-rc02,2023-03-24 20:16:05,CONTRIBUTOR," Hi, I'm ready to submit it now.",[Feature] Support hive meta cache TTL,0,support;feature

@@ -1,0 +1,4 @@
+文本序号,用户名,版本号,时间,成员角色,text,issue_topic,score,tag
+0,david990917,1.2.2-rc01,2023-04-22 16:51:24,NONE AUTHOR,"Dear team, I am currently developing this issue. 【Thanks】 for this opportunity",[【Feature】] (array function) 【Support】 array_contains_any function,1,support;feature;thanks
+1,david990917,1.2.2-rc01,2023-04-22 19:32:29,NONE AUTHOR,"May I ask about the input/output of this function? @xiaokangWill it be this style? // arraycontainsany([1, 2, 3, 10], [2,5])  true",[Feature] (array function) 【Support】 array_contains_any function,1,support;feature
+2,david990917,1.2.2-rc01,2023-04-22 19:46:43,NONE AUTHOR,"[['arraycontainsany'], 'BOOLEAN', ['ARRAYINT', 'ARRAYINT'], '']",[【Feature】] (array function) 【Support】 array_contains_any function,0,support;feature

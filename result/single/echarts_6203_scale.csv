@@ -1,0 +1,4 @@
+文本序号,用户名,版本号,时间,成员角色,text,issue_topic,score,tag
+0,100pah,3.6.2,2017-07-14 20:56:22,MEMBER,如果不考虑缩放的话，可以使用 [graphic](http://echarts.baidu.com/option.htmlgraphic) 配合 [convertToPixel](http://echarts.baidu.com/api.htmlechartsInstance.convertToPixel) 来做。如果考虑缩放的话，可以使用 [custom series](http://echarts.baidu.com/option.htmlseriescustom) 来做。,地图做引用标记,0,do
+1,kongjibai,3.6.2,2017-08-04 10:08:52,NONE,请问您实现了这个功能了吗？是如何是实现的呢？求教！,地图做引用标记,1,无
+2,HeNanBing,3.6.2,2017-08-04 10:32:27,NONE AUTHOR,custom series 配合polyline或者polygon,地图做引用标记,0,无

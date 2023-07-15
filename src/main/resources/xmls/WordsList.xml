@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <BoosterWordsList>senti.sentistrength.wordsList.BoosterWordsList</BoosterWordsList>
+    <CorrectSpellingsList>senti.sentistrength.wordsList.CorrectSpellingsList</CorrectSpellingsList>
+    <EmoticonsList>senti.sentistrength.wordsList.EmoticonsList</EmoticonsList>
+    <IdiomList>senti.sentistrength.wordsList.IdiomList</IdiomList>
+    <IronyList>senti.sentistrength.wordsList.IronyList</IronyList>
+    <NegatingWordList>senti.sentistrength.wordsList.NegatingWordList</NegatingWordList>
+    <QuestionWords>senti.sentistrength.wordsList.QuestionWords</QuestionWords>
+</config>

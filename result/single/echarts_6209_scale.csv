@@ -1,0 +1,6 @@
+文本序号,用户名,版本号,时间,成员角色,text,issue_topic,score,tag
+0,100pah,3.6.2,2017-07-14 20:43:47,MEMBER,暂时不行，为何要通过 `visualMap` 进行设置呢？,k线图的阴阳线颜色能否通过visualMap进行设置？,0,do
+1,bayun2,3.6.2,2017-07-17 10:18:43,NONE AUTHOR,因为当收盘价和开盘价相等的时候，echart的源码里把k线颜色写死成了，阴线的颜色，所以理论上如果支持visualMap，可以通过visualMap来设置自定义相等情况下的颜色,k线图的阴阳线颜色能否通过visualMap进行设置？,0,support
+2,100pah,3.6.2,2017-07-18 11:15:30,MEMBER,后续版本会改善这个问题。但是先可以参见这个 [例子](http://gallery.echartsjs.com/editor.html?c=xHyOf6gsrb&v=1) 来自己定义颜色吧。,k线图的阴阳线颜色能否通过visualMap进行设置？,0,version;problem
+3,bayun2,3.6.2,2017-07-18 18:22:06,NONE AUTHOR,哇，尽然还有这样的黑科技，厉害了。,k线图的阴阳线颜色能否通过visualMap进行设置？,2,无
+4,100pah,3.6.2,2017-09-06 12:00:03,MEMBER,Fixed on 85ccf2d. See 6583,k线图的阴阳线颜色能否通过visualMap进行设置？,0,无

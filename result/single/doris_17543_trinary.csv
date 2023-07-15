@@ -1,0 +1,5 @@
+文本序号,用户名,版本号,时间,成员角色,text,issue_topic,score,tag
+0,Pogical,1.2.2-rc01,2023-03-08 12:03:10,NONE,I'll 【try】 this！,[【Feature】] add tablet  operation history,0,feature;try
+1,Jake-00,1.2.2-rc01,2023-04-12 15:23:24,CONTRIBUTOR,"Hi there @YukangLian @yixiuttI would 【like】 to accept this challenge, but I am fresh 【new】 at Doris. Hope my coming questions don't bother you folks a lot ☕",[【Feature】] add tablet  operation history,1,feature;like;do;new
+2,Jake-00,1.2.2-rc01,2023-04-12 15:25:27,CONTRIBUTOR,"@yixiutt  I just make a mistake to commend under issue 18577, indeed I 【want】 deal with this issue.",[【Feature】] add tablet  operation history,-1,feature;want
+3,yixiutt,1.2.2-rc01,2023-04-12 15:29:37,CONTRIBUTOR AUTHOR,you can add my wechat xx129863 ,[【Feature】]add tablet  operation history,0,feature

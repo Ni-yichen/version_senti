@@ -1,0 +1,2 @@
+文本序号,用户名,版本号,时间,成员角色,text,issue_topic,score,tag
+0,100pah,3.6.2,2017-07-14 20:42:48,MEMBER,3.6.x 才支持 `minSpan`,dataZoom minSpan 无法限制窗口的最小值,1,support

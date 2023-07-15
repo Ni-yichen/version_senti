@@ -1,0 +1,7 @@
+文本序号,用户名,版本号,时间,成员角色,text,issue_topic,score,tag
+0,FoyunW,1.2.2-rc01,2023-03-14 19:22:45,NONE AUTHOR,![微信图片20230314192002](https://userimages.githubusercontent.com/102196430/22498610071a7d0d0fb2c4ccf8a3b977c607347b9.png)![image](https://userimages.githubusercontent.com/102196430/224986173409cc2d993814d44a949c0101484b4b7.png),[Bug] 同批json格式数据在1.1.x版本无法正常写入doris,0,do
+1,smallhibiscus,1.2.2-rc01,2023-03-16 09:54:01,CONTRIBUTOR,Whether checkpoint is configured ?,[Bug] 同批json格式数据在1.1.x版本无法正常写入doris,0,do
+2,FoyunW,1.2.2-rc01,2023-03-16 11:05:50,NONE AUTHOR," Whether checkpoint is configured ?Yes, I configured the checkpoint to hdfs.",[Bug] 同批json格式数据在1.1.x版本无法正常写入doris,0,do
+3,smallhibiscus,1.2.2-rc01,2023-03-16 11:46:33,CONTRIBUTOR,You need configured the checkpoint to flink.,[Bug] 同批json格式数据在1.1.x版本无法正常写入doris,0,do
+4,FoyunW,1.2.2-rc01,2023-03-16 14:24:17,NONE AUTHOR," You need configured the checkpoint to flink.You meaned I should configured the checkpoint to flink job maneger notly hdfs?If the job failed, lost all of the data?My question is,The same data, I can sink doris by doris connector 【version】 1.0.3,but 1.1.0 cannot,my flink 【version】 is 1.14.5,on the doris connector document website, flink1.14.x depend on doris connector 1.1.x.What does it have to do with checkpoints?",[Bug] 同批json格式数据在1.1.x版本无法正常写入doris,-1,version;do
+5,smallhibiscus,1.2.2-rc01,2023-03-16 14:28:53,CONTRIBUTOR,"This is my wechat: smallhibiscus, you can contact me in private.",[Bug] 同批json格式数据在1.1.x版本无法正常写入doris,0,do

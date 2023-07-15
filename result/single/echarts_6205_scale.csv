@@ -1,0 +1,2 @@
+文本序号,用户名,版本号,时间,成员角色,text,issue_topic,score,tag
+0,100pah,3.6.2,2017-07-14 01:24:45,MEMBER,"Try this please:```jsmyChart.on('dataZoom', function () {    var option = myChart.getOption();    console.log(option.dataZoom[0].startValue, option.dataZoom[0].endValue);});```I hope it can meet your requirement.",Get currently displayed categories data after zoom or visual map filter changed,2,try

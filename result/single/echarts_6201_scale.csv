@@ -1,0 +1,4 @@
+文本序号,用户名,版本号,时间,成员角色,text,issue_topic,score,tag
+0,Rainmen-xia,3.6.2,2017-07-17 11:53:35,NONE,vue没用对？,vue2.0 中使用echarts 在mounted函数中init，但是图表只在第一次加载时显示。,0,do
+1,keysple,3.6.2,2017-07-17 11:56:45,NONE AUTHOR,"是init放在mounted函数里面了 vue其他部分没问题应该 我其他的组件都使用正常。 在 2017年7月17日，11:54，Rainmenxia <notifications@github.com 写道：  vue没用对？  — You are receiving this because you authored the thread. Reply to this email directly, view it on GitHub, or mute the thread. ",vue2.0 中使用echarts 在mounted函数中init，但是图表只在第一次加载时显示。,0,do
+2,se1phine,3.6.2,2018-01-25 18:28:52,NONE,用react也出现了这个问题，echarts.init 计算出了错误了宽高,vue2.0 中使用echarts 在mounted函数中init，但是图表只在第一次加载时显示。,-1,problem

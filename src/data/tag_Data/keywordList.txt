@@ -1,0 +1,73 @@
+version
+sequence
+hidden
+load
+correction
+visible
+createTable
+first load
+complicated
+problem
+stable sort
+replace
+aggregation
+test
+clickhouse
+clang compile
+storage format
+cross-version upgrade
+framework
+rfc directory
+roadmap
+release
+support
+decimal
+feature
+multi-core utilization
+help
+try
+assign
+apply
+thanks
+translate
+interest
+confuse
+like
+willing
+passion
+implement
+welcome
+contributing
+sorry
+community
+select
+task
+do
+new
+mentor
+yeah
+improve
+stuck
+want
+newbie
+difficult
+good first issues
+vue
+react
+chart
+realtime
+delete
+data
+form
+bar
+series
+label
+merge
+option
+defect
+state
+parameter
+component
+graphic
+markpoint
+zoom
